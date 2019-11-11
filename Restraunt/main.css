@@ -1,0 +1,22 @@
+body {
+  padding: 30px;
+  margin: 0;
+  background: #b4b4b4;
+}
+ 
+header{
+  padding: 30px;
+  text-align: center;
+  background-image: url('background.png') 
+}
+
+footer{
+  padding: 30px;
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+
+}
+.color{
+  background-color: rgb(98, 85, 85);
+  padding: 20px;
+}
