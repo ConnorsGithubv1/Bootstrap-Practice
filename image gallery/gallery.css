@@ -1,8 +1,16 @@
 body{
-    background-color: rgb(99, 85, 71);
+    background-color: rgb(116, 157, 158);
 }
 
 .container {
     width: 100%;
     white-space: nowrap;
+}
+
+.navbar-brand{
+    padding: 20px;
+}
+
+footer{
+    background-color: blue;
 }
